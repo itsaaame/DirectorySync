@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hOdmM9fFVWi2S7IyQNXR8kLHzCC9gbdXrf1yOOk9oan+9cTlqGmtKfVEVS8Bb69Ra6XfQbS6MTYbdOJA1e9fYQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\DirectorySync\\DirectorySync\\DirectorySync.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\commandlineparser\\2.8.0\\commandlineparser.2.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}
