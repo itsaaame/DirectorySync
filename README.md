@@ -1,5 +1,5 @@
 # DirectorySync
-Simple folder mirror console app
+Simple folder mirror console app (SleepyFileWatcher)
 
 CommandLineParser nuget package used for the purpose of parsing Command Line arguments
 
